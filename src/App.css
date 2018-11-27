@@ -1,3 +1,25 @@
+.Header {
+  background-color: lightblue;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content:left;
+  width:100%;
+  margin:10px;
+}
+
+.Body p{
+  background-color:lightgray;
+  display:flex;
+  flex direction: column;
+  height:80px;
+  padding: 20px;
+  margin:10px;
+  justify-content:center;
+  align-items:center;
+}
+
+
 .App {
   text-align: center;
 }
